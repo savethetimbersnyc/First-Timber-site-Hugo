@@ -1,10 +1,22 @@
 ---
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
-featured_image: ""
-title: About
+title: "About"
+description: "We salvage timbers from old NYC buildings that are being demolished and would otherwise be lost."
+featured_image: ''
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/20210115_114834.jpg" title="140-142 Fulton St NY 10038" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_Save the timbers NYC_ is a non-profit organization run by scientists, the Sawkill Lumber company and individuals.
+The city of New York was largely built using timbers extracted from United States old-growth forest.
+Depending on the technology and accesibility at the time of construction, the provenance of these timbers has changed through time.
+Trees have an amazing feature: they record their stories in their tree-rings!
+Our main objective is to collect timbers from buildings that are being demolished and find out the stories hiden in the wood constituting their joists, columns, floors and even furniture!
+Unfortunately, many buildings are being demolished in the city and most of the construction wood is not preserved. As part of our mision, we rescued some of these timbers to find out where they are from. 
+
+# Members
+Mukund Palat Rao            |  Caroline Leland        | Edward Cook            |  Alan Solomon        |  Milagros Rodriguez-Caton
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/images/20210115_114834.jpg)  |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)
+
+You can place each image side-by-side by writing the markdown for each image on the same line.
+
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")

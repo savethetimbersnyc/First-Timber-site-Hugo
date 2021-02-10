@@ -1,10 +1,11 @@
 ---
-description: Laissez-nous un message!
-featured_image: images/notebook.jpg
-menu: main
-omit_header_text: true
 title: Contact
+featured_image: "images/notebook.jpg"
+omit_header_text: true
+description: Laissez-nous un message!
 type: page
+menu: main
+
 ---
 
 

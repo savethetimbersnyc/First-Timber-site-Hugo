@@ -1,6 +1,6 @@
 ---
-description: The last theme you'll ever need. Maybe.
-featured_image: /images/gohugo-default-sample-hero-image.jpg
-title: 'Ananke: a Hugo Theme'
+title: "Save the Timbers NYC"
+featured_image: '/images/20180420_100315.jpg'
+description: "Old growth forest building the city"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to our non-profit organization. Here you will learn about New York City's history through its old buildings and bridges.

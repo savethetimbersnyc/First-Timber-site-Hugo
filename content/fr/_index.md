@@ -1,7 +1,7 @@
 ---
-description: Le dernier thème dont vous aurez besoin. Peut-être
-featured_image: /images/gohugo-default-sample-hero-image.jpg
-title: 'Ananke: Un thème pour Hugo'
+title: "Ananke: Un thème pour Hugo"
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+description: "Le dernier thème dont vous aurez besoin. Peut-être"
 ---
 Bienvenu sur mon blog!
 
