@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Save the Timbers NYC</title>
-    <link>https://savethetimbersnyc.github.io/tags/</link>
-    <description>Recent content in Tags on Save the Timbers NYC</description>
+    <title>Tags on Save the timbers NYC</title>
+    <link>https://savethetimbersnyc.netlify.app/tags/</link>
+    <description>Recent content in Tags on Save the timbers NYC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://savethetimbersnyc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://savethetimbersnyc.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>https://savethetimbersnyc.github.io/tags/plot/</link>
+      <link>https://savethetimbersnyc.netlify.app/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://savethetimbersnyc.github.io/tags/plot/</guid>
+      <guid>https://savethetimbersnyc.netlify.app/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://savethetimbersnyc.github.io/tags/r-markdown/</link>
+      <link>https://savethetimbersnyc.netlify.app/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://savethetimbersnyc.github.io/tags/r-markdown/</guid>
+      <guid>https://savethetimbersnyc.netlify.app/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://savethetimbersnyc.github.io/tags/regression/</link>
+      <link>https://savethetimbersnyc.netlify.app/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://savethetimbersnyc.github.io/tags/regression/</guid>
+      <guid>https://savethetimbersnyc.netlify.app/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scene</title>
-      <link>https://savethetimbersnyc.github.io/tags/scene/</link>
+      <link>https://savethetimbersnyc.netlify.app/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://savethetimbersnyc.github.io/tags/scene/</guid>
+      <guid>https://savethetimbersnyc.netlify.app/tags/scene/</guid>
       <description></description>
     </item>
     
