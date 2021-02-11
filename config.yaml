@@ -13,9 +13,9 @@ languages:
     contentDir: content/en
     title: Save the timbers NYC
     weight: 1
-  fr:
-    contentDir: content/fr
-    title: Mon blogue
+  es:
+    contentDir: content/en
+    title: Salvemos las maderas NYC
     weight: 2
 sitemap:
   changefreq: monthly

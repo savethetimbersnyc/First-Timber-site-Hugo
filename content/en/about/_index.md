@@ -12,11 +12,10 @@ Trees have an amazing feature: they record their stories in their tree-rings!
 Our main objective is to collect timbers from buildings that are being demolished and find out the stories hiden in the wood constituting their joists, columns, floors and even furniture!
 Unfortunately, many buildings are being demolished in the city and most of the construction wood is not preserved. As part of our mision, we rescued some of these timbers to find out where they are from. 
 
+<img src="/en/about/_index_files/20210115_115056.jpg" alt="From left to right Milagros Rodriguez-Caton, Mukund 
+Palat Rao, Alan Solomon and the Supervisor of the construction Hector Lugo" width="400px" height="200px"/>
+
 # Members
 Mukund Palat Rao            |  Caroline Leland        | Edward Cook            |  Alan Solomon        |  Milagros Rodriguez-Caton
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/20210115_114834.jpg)  |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)
-
-You can place each image side-by-side by writing the markdown for each image on the same line.
-
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
