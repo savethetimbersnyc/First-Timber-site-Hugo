@@ -1,5 +1,5 @@
 title: Notre-Dame de Paris
-baseURL: https://timbersnyc-1.netlify.app
+baseURL: https://savethetimbersnyc.netlify.app
 languageCode: en-us
 theme: gohugo-theme-ananke
 resourceDir: ../resources
@@ -11,7 +11,7 @@ enableRobotsTXT: yes
 languages:
   en:
     contentDir: content/en
-    title: My blog
+    title: Save the timbers NYC
     weight: 1
   fr:
     contentDir: content/fr
