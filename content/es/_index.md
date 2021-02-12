@@ -1,5 +1,5 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "Salvemos las maderas NYC"
 featured_image: '/images/20180420_100315.jpg'
 description: "Bosques pristinos que construyeron la ciudad"
 ---

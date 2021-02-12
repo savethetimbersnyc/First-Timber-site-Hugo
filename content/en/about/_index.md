@@ -14,7 +14,7 @@ Unfortunately, many buildings are being demolished in the city and most of the c
 Palat Rao, Alan Solomon and the Supervisor of the construction Hector Lugo" width="400px" height="200px"/>
 
 # Members
-# Co-funders
+# Co-founders
 
 Mukund Palat Rao| Caroline Leland
 :-------------------------:|:-------------------------:|

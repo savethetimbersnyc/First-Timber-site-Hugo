@@ -14,7 +14,7 @@ languages:
     title: Save the timbers NYC
     weight: 1
   es:
-    contentDir: content/en
+    contentDir: content/es
     title: Salvemos las maderas NYC
     weight: 2
 sitemap:
