@@ -3,8 +3,6 @@ title: "About"
 description: "We salvage timbers from old NYC buildings that are being demolished and would otherwise be lost."
 featured_image: ''
 ---
-{{< figure src="/images/20210115_114834.jpg" title="140-142 Fulton St NY 10038" >}}
-
 _Save the timbers NYC_ is a non-profit organization run by scientists, the Sawkill Lumber company and individuals.
 The city of New York was largely built using timbers extracted from United States old-growth forest.
 Depending on the technology and accesibility at the time of construction, the provenance of these timbers has changed through time.
@@ -16,6 +14,19 @@ Unfortunately, many buildings are being demolished in the city and most of the c
 Palat Rao, Alan Solomon and the Supervisor of the construction Hector Lugo" width="400px" height="200px"/>
 
 # Members
-Mukund Palat Rao            |  Caroline Leland        | Edward Cook            |  Alan Solomon        |  Milagros Rodriguez-Caton
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/20210115_114834.jpg)  |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)   |  ![](/images/20210115_114834.jpg)
+# Co-funders
+
+Mukund Palat Rao| Caroline Leland
+:-------------------------:|:-------------------------:|
+{{<figure  src="/en/about/_index_files/mukund.png" alt="" width="300px">}}| {{<figure src="/en/about/_index_files/Cari.png" alt="" width="300px">}}
+
+Sawkill Lumber (Alan Solomon)|  Milagros Rodriguez-Caton
+:-------------------------:|:-------------------------:|
+{{<figure src="/en/about/_index_files/Alan.png" alt="" width="100px">}}|  {{<figure src="/en/about/_index_files/Mili.png" alt="" width="100px">}}
+
+# Scientific Advisors
+Edward Cook            |  Rosanne D'Arrigo
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+{{< figure src="/images/EdCook.png" title="">}}   | {{< figure src="/images/rosanneDarrigo.png" title="">}}  | 
+
+
