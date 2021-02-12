@@ -1,8 +1,8 @@
 ---
-title: "Longleaf Pine (Pinus palustris)"
-description: Fulton Street
+title: "Fulton Street"
+description: Longleaf Pine (Pinus palustris)
 date: '2021-02-02T11:25:05-04:00'
-featured_image: /images/20210115_115916.jpg
+featured_image: /images/FultonSt_&world.trade.center.jpeg
 tags: []
 disable_share: no
 ---
@@ -11,5 +11,7 @@ As part of our mision, we rescued some of these timbers to find out where they a
 As you can see from the picture the trees were several years old. Look how many the tree-rings the have!
 
 # Galery
+![longleaf](/images/longleaf_crosssections.jpeg)
 ![longleaf](/images/20210115_115916.jpg)
+
 
