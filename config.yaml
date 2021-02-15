@@ -1,7 +1,7 @@
 title: Notre-Dame de Paris
 baseURL: https://savethetimbersnyc.netlify.app
 languageCode: en-us
-theme: github.com/savethetimbersnyc/First-Timber-site-Hugo
+theme: gohugo-theme-ananke
 resourceDir: ../resources
 DefaultContentLanguage: en
 SectionPagesMenu: main
