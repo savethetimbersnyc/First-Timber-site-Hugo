@@ -32,7 +32,7 @@ params:
   instagram: ''
   linkedin: ''
   mastodon: ''
-  recent_posts_number: 2
+  recent_posts_number: 6
   rss: ''
   site_logo: ''
   slack: ''
