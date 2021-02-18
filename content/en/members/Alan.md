@@ -7,4 +7,4 @@ disable_share: no
 ---
 Alan Solomon has spent a life in salvage, starting with a family scrapyard in Boston and is currently the co-owner of Sawkill Lumber LLC in NYC.
 
-![AS](/images/Alan.png)
+![AS](/images/Alan_higherQ.jpg)
