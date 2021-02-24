@@ -34,7 +34,7 @@ params:
   mastodon: ''
   recent_posts_number: 6
   rss: ''
-  site_logo: ''
+  site_logo: 'images/logo_test2.png'
   slack: ''
   stackoverflow: ''
   twitter: https://twitter.com/GoHugoIO

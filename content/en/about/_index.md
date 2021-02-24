@@ -20,18 +20,24 @@ In just one month since its founding in January 2021, we have salvaged and dendr
 
 # Members
 # Co-founders
-Mukund Palat Rao
-{{<figure  src="/en/about/_index_files/mukund.png" alt="" width="100px">}}
-Milagros Rodriguez-Caton
-{{<figure src="/en/about/_index_files/Mili.png" alt="" width="100px">}}
-Caroline Leland
-{{<figure src="/en/about/_index_files/Cari.png" alt="" width="100px">}}
-Sawkill Lumber (Alan Solomon)|  
-{{<figure src="/en/about/_index_files/Alan.png" alt="" width="100px">}}
+## Mukund Palat Rao
+Mukund Palat Rao is an Ecoclimatologist studying interactions between climate change and natural and human ecosystems using tree-rings and remote-sensing.
+{{<figure  src="/images/mukund_higherQ.jpg" alt="">}}
+## Milagros Rodriguez-Caton
+Milagros Rodriguez Caton is an environmental scientist. She uses tree-rings to understand and reconstruct climate and its impacts on natural ecosystems.
+{{<figure src="/images/Mili_higherQ.jpg" alt="" width="100px">}}
+## Caroline Leland
+Caroline Leland is a researcher and educator in Earth Science. Her research involves using tree rings to understand past environmental conditions.
+{{<figure src="/images/Cari_higherQ.jpg" alt="" width="100px">}}
+## Alan Solomon (Sawkill Lumber)
+Alan Solomon has spent a life in salvage, starting with a family scrapyard in Boston and is currently the co-owner of Sawkill Lumber LLC in NYC.
+{{<figure src="/images/Alan_higherQ.jpg" alt="" width="100px">}}
 # Scientific Advisors
-Edward Cook
+## Edward Cook
+Dr Edward Cook is co-founder of CU-TRL and is an expert in quantitative studies of tree rings. His continental scale drought atlases have been fundamental to our current understanding of earth’s hydroclimate over the Common Era. He has many years of experience in the tree-ring dating of historical structures in the greater New York area.
 {{< figure src="/images/EdCook.png" title="">}}
-Rosanne D'Arrigo
+## Rosanne D'Arrigo
+Dr Rosanne D'Arrigo is an accomplished scientist known for her insightful, rigorous, and original contributions to the development of high-resolution paleoclimatology. She produced some of the first paleoclimate records validating widespread climate change and global warming. 
 {{< figure src="/images/rosanneDarrigo.png" title="">}}
 
 

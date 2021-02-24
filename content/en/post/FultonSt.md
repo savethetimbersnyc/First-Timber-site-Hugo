@@ -12,6 +12,12 @@ As you can see from the picture the trees were several years old. Look how many 
 
 # Galery
 ![longleaf](/images/longleaf_crosssections.jpeg)
+
 ![longleaf](/images/20210115_115916.jpg)
+
+![longleaf](/images/Fulton_field.M&M.jpg)
+
+![longleaf](/images/Fulton_Field_Team.jpg)
+
 
 
