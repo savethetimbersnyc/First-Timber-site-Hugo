@@ -1,5 +1,5 @@
 ---
-title: "Mukund Palat Rao - CEO"
+title: "Mukund Palat Rao"
 description: 
 date: '2021-02-17T11:25:05-04:00'
 tags: []

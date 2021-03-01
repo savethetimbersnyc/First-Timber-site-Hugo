@@ -1,5 +1,5 @@
 ---
-title: "Milagros Rodriguez Caton - CTO"
+title: "Milagros Rodriguez Caton"
 description: 
 date: '2021-02-16T11:25:05-04:00'
 tags: []

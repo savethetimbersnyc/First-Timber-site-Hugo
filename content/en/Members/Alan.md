@@ -1,5 +1,5 @@
 ---
-title: "Alan Solomon - Products"
+title: "Alan Solomon"
 description: 
 date: '2021-02-14T11:25:05-04:00'
 tags: []

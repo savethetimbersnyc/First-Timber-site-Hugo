@@ -1,5 +1,5 @@
 ---
-title: "Caroline Leland - COO"
+title: "Caroline Leland"
 description: 
 date: '2021-02-15T11:25:05-04:00'
 tags: []
